@@ -4,7 +4,7 @@ This repository contains my **Python/Jupyter Notebook practicals** for the Stati
 
 ## 📚 Practicals
 
-The repository includes different experiments using Python, Pandas, NumPy, SciPy, and other libraries.
+The repository includes different experiments using Python, Pandas, NumPy, SciPy, Matplot  and other libraries.
 
 Each `.ipynb` file contains:
 
